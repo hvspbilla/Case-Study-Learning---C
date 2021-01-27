@@ -1,0 +1,13 @@
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.exe
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.deps.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.runtimeconfig.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.runtimeconfig.dev.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\bin\Debug\netcoreapp3.1\CaseStudy_Medium.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.csprojAssemblyReference.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.AssemblyInfoInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.AssemblyInfo.cs
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.csproj.CoreCompileInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium\obj\Debug\netcoreapp3.1\CaseStudy_Medium.genruntimeconfig.cache
