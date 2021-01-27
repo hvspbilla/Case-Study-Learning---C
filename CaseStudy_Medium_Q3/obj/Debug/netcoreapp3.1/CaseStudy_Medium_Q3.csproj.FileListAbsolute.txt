@@ -1,0 +1,13 @@
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.csprojAssemblyReference.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.AssemblyInfoInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.AssemblyInfo.cs
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.csproj.CoreCompileInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.exe
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.deps.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.runtimeconfig.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.runtimeconfig.dev.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\bin\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Medium_Q3\obj\Debug\netcoreapp3.1\CaseStudy_Medium_Q3.genruntimeconfig.cache
