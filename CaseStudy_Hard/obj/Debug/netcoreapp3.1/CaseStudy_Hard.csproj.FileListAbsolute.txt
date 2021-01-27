@@ -1,0 +1,13 @@
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.exe
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.deps.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.runtimeconfig.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.runtimeconfig.dev.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\bin\Debug\netcoreapp3.1\CaseStudy_Hard.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.csprojAssemblyReference.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.AssemblyInfoInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.AssemblyInfo.cs
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.csproj.CoreCompileInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Hard\obj\Debug\netcoreapp3.1\CaseStudy_Hard.genruntimeconfig.cache
