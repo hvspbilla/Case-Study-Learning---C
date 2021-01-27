@@ -1,0 +1,13 @@
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.csprojAssemblyReference.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.AssemblyInfoInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.AssemblyInfo.cs
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.csproj.CoreCompileInputs.cache
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.exe
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.deps.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.runtimeconfig.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.runtimeconfig.dev.json
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\bin\Debug\netcoreapp3.1\CaseStudy_Easy.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.dll
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.pdb
+C:\Users\HARITEJA\source\repos\CaseStudy_Easy\obj\Debug\netcoreapp3.1\CaseStudy_Easy.genruntimeconfig.cache
